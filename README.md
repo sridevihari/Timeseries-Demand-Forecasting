@@ -1,2 +1,2 @@
 # Timeseries-Demand-Forecasting
-Demand forecasting using Timeseries Techniques
+Perform demand forecasting using Timeseries Techniques
